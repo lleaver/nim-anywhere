@@ -89,7 +89,7 @@ log_level: WARNING
 
 ## Chat Frontend config schema
 
-The chat frontend has a few configuraiton options as well. They can be set in the same manner as the chain server.
+The chat frontend has a few configuration options as well. They can be set in the same manner as the chain server.
 
 ```yaml
 # The URL to the chain on the chain server.
